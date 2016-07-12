@@ -9,6 +9,10 @@ From https://gist.github.com/dmnsgn/75926316af5360c379da
 
 From https://gist.github.com/dmnsgn/75926316af5360c379da
 
-### rules.cfg
+### rapilabs.cfg
 
 For [eslintrc-generator](http://rapilabs.github.io/eslintrc-generator/)
+
+### pirosikick.cfg
+
+For [eslintrc-editor](https://pirosikick.github.io/eslintrc-editor/)
