@@ -9,7 +9,7 @@
     "no-new-wrappers": 2,
     "no-with": 2,
     "no-undef": 2,
-    "no-unused-vars": [2,null],
+    "no-unused-vars": [2,{"args":"none"}],
     "array-bracket-spacing": [2,"never",{}],
     "indent": [2,4,{"SwitchCase":1}],
     "no-array-constructor": 2,
